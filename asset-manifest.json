@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-secondTodo/static/css/main.ba135999.chunk.css",
+    "main.js": "/React-secondTodo/static/js/main.abcadce3.chunk.js",
+    "main.js.map": "/React-secondTodo/static/js/main.abcadce3.chunk.js.map",
+    "runtime-main.js": "/React-secondTodo/static/js/runtime-main.b756e307.js",
+    "runtime-main.js.map": "/React-secondTodo/static/js/runtime-main.b756e307.js.map",
+    "static/js/2.f7ccd7ce.chunk.js": "/React-secondTodo/static/js/2.f7ccd7ce.chunk.js",
+    "static/js/2.f7ccd7ce.chunk.js.map": "/React-secondTodo/static/js/2.f7ccd7ce.chunk.js.map",
+    "static/js/3.3beb7a85.chunk.js": "/React-secondTodo/static/js/3.3beb7a85.chunk.js",
+    "static/js/3.3beb7a85.chunk.js.map": "/React-secondTodo/static/js/3.3beb7a85.chunk.js.map",
+    "index.html": "/React-secondTodo/index.html",
+    "static/css/main.ba135999.chunk.css.map": "/React-secondTodo/static/css/main.ba135999.chunk.css.map",
+    "static/js/2.f7ccd7ce.chunk.js.LICENSE.txt": "/React-secondTodo/static/js/2.f7ccd7ce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-secondTodo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b756e307.js",
+    "static/js/2.f7ccd7ce.chunk.js",
+    "static/css/main.ba135999.chunk.css",
+    "static/js/main.abcadce3.chunk.js"
+  ]
+}
